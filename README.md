@@ -23,7 +23,7 @@
 
    1. sign up for quicksight account
 
-    ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/d00872cb-d150-4887-a1c7-77e0c28fd459)
+     ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/d00872cb-d150-4887-a1c7-77e0c28fd459)
    
     ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/90cf3ab3-f0ab-4d46-ba08-6453178f5462)
       

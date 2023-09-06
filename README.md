@@ -13,7 +13,8 @@
        
 **Step-2:**
 
-     **Store Dataset into Amazon S3 bucket**
+     Store Dataset into Amazon S3 bucket
      
-     ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/821b9d4e-ef6f-48f8-bc67-1282c5b5f827)
+     ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/af025674-efdc-46d1-9e44-107f0a3375ff)
+
      

@@ -12,8 +12,8 @@
      Download a dataset of 50,000 best-selling Amazon products.
        
 **Step-2:**
-     Store Dataset into Amazon S3 bucket.
-     ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/0a570784-53ce-4047-9ab7-41c4e09a9c07)
+![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/77113aac-d181-4ceb-a5b7-10ce3ca4be40)
+
 
 
 **Step-3:**

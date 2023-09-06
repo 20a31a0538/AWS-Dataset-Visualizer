@@ -9,10 +9,10 @@
 **Procedure:**
 
 **Step-1:**
-     Download a dataset of 50,000 best-selling Amazon products.
+     #Download a dataset of 50,000 best-selling Amazon products.
        
 **Step-2:**
-     Store Dataset into Amazon S3 bucket.
+     #Store Dataset into Amazon S3 bucket.
      1. ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/ce9ce875-5a22-4519-96a9-240af868ef06)
 
 
@@ -20,7 +20,7 @@
 
 **Step-3:**
 
-     Connect s3 Bucket to Quicksight and create visualization.
+     #Connect s3 Bucket to Quicksight and create visualization.
 
    1. Sign up for Quicksight account
    2. ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/d00872cb-d150-4887-a1c7-77e0c28fd459)

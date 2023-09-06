@@ -34,21 +34,35 @@
     Quick sight setup finish.
 
    ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/e82f1e09-1293-4d9d-9c5b-d99decb13235)
+   
 
    8. Go to amazon quicksight
-   9. ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/8262dfed-b91f-4eab-9cc8-db3e5e608e10)
+
+    
+   10. ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/8262dfed-b91f-4eab-9cc8-db3e5e608e10)
+   11. 
     Go to datasets and click on new datasets
+
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/1d2111a1-9434-48e0-a028-05e2df1fe637)
      Click on s3 then paste manifest S3 URL
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/03a949d1-637d-4433-ba76-f7d77b96046a)
+     
      Let us visualize the amazon data source
+     
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/1861040a-25a5-4b6d-a140-ddec5fb3bcf5)
+     
      Click the interactive sheet and create
+     
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/c6016a3c-78c0-44b7-9ada-67b4e4fc23b3)
+     
     Visualization of most popular brands
+    
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/86922626-8c96-406d-b9ba-f57ee615a1dd)
+     
      Let us check in Descending order: Click on brand text option  sort  descending
+     
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/4123cd9d-22f5-4d42-b836-68618ef8b9ce)
+     
      Therefore, Highest popular brand for the given dataset is DORMAN.
 
 **Other visualizations to create ideas:**

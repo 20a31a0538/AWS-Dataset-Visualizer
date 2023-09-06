@@ -21,7 +21,7 @@
 
      Connect s3 Bucket to Quicksight and create visualization.
 
-   1. sign up for quicksight account
+   1. Sign up for Quicksight account
 
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/d00872cb-d150-4887-a1c7-77e0c28fd459)
    
@@ -33,21 +33,23 @@
    
     Quick sight setup finish.
 
-   ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/e82f1e09-1293-4d9d-9c5b-d99decb13235)
+    ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/e82f1e09-1293-4d9d-9c5b-d99decb13235)
    
 
-   8. Go to amazon quicksight
+      Go to Amazon quick sight
 
     
-   10. ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/8262dfed-b91f-4eab-9cc8-db3e5e608e10)
-   11. 
+       ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/8262dfed-b91f-4eab-9cc8-db3e5e608e10)
+    
     Go to datasets and click on new datasets
 
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/1d2111a1-9434-48e0-a028-05e2df1fe637)
-     Click on s3 then paste manifest S3 URL
+     
+     Click on S3 then paste the manifest S3 URL
+     
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/03a949d1-637d-4433-ba76-f7d77b96046a)
      
-     Let us visualize the amazon data source
+     Let us visualize the Amazon data source
      
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/1861040a-25a5-4b6d-a140-ddec5fb3bcf5)
      
@@ -62,6 +64,7 @@
      Let us check in Descending order: Click on brand text option  sort  descending
      
      ![image](https://github.com/20a31a0538/AWS-Dataset-Visualizer/assets/110081197/4123cd9d-22f5-4d42-b836-68618ef8b9ce)
+     
      
      Therefore, Highest popular brand for the given dataset is DORMAN.
 
